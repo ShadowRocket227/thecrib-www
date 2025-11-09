@@ -1,0 +1,14 @@
+body {
+  font-family: "Adwaita Sans", sans-serif !important;
+  src: url('/fonts/AdwaitaSans-Regular.ttf')
+}
+
+pre, code, .code, .editor, .terminal, textarea {
+  font-family: "JetBrains Mono", monospace !important;
+  white-space: pre-wrap !important;
+  src: url('JetBrainsMono-Regular.ttf')
+}
+
+div, span, p {
+  font-family: inherit !important;
+}
