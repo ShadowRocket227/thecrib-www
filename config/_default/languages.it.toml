@@ -8,7 +8,7 @@ title = "The Crib"
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
+  logo = "img/logo.svg"
   description = "Articoli a caso sull'informatica"
 
 [params.author]
