@@ -27,11 +27,6 @@
   weight = 400
 
 [[main]]
-  name = "Vetrina"
-  url = "/tags/vetrina/"
-  weight = 20
-
-[[main]]
   name = "Autori"
   url = "/autori/"
   weight = 25

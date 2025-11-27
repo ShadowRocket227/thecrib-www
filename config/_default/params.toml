@@ -7,7 +7,7 @@
 
 colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = "false"
 
 enableA11y = false
 enableSearch = true
@@ -53,10 +53,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   mainSections = ["blog"]
-  showRecentItems = 5
+  showRecentItems = 9
   showMoreLink = false
   showMoreLinkDest = "/posts/"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
