@@ -13,8 +13,8 @@ div, span, p {
   font-family: inherit !important;
 }
 
-#main-content h1:not([class]) {
-  display: flex;
-  justify-content: center;
-  font-size: 90px;
-}
+/*#main-content h1:not([class]) {
+/*  display: flex;
+/*  justify-content: center;
+/*  font-size: 90px;
+/*}
