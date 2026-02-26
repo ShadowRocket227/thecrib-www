@@ -13,6 +13,11 @@ div, span, p {
   font-family: inherit !important;
 }
 
+.logo svg {
+  height: 125px;
+  width: 125px;
+}
+
 /*#main-content h1:not([class]) {
 /*  display: flex;
 /*  justify-content: center;
