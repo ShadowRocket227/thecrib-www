@@ -18,6 +18,13 @@ div, span, p {
   width: 125px;
 }
 
+.logo-homepage {
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+  width: 500px;
+}
+
 /*#main-content h1:not([class]) {
 /*  display: flex;
 /*  justify-content: center;
