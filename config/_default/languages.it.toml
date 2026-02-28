@@ -12,13 +12,11 @@ title = "The Crib"
   description = "Articoli a caso sull'informatica"
 
 [params.author]
-  name = "Ettore Ronchini"
-  email = "ettoreronchini10@gmail.com"
+  name = "ShadowRocket227"
   image = "https://avatars.githubusercontent.com/u/137918363?v=4"
   headline = "Informatico indipendente"
-  bio = "Hi, my name is...ChickaChickaChika Slim Shady !"
+  bio = "Nato e cresciuto in /dev/random"
   
   links = [
     { github = "https://github.com/ShadowRocket227" },
-    { email = "mailto:ettoreronchini10@gmail.com" },
   ]
