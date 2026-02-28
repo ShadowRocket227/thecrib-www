@@ -7,5 +7,9 @@ description: "Home page di thecrib.it"
     class="logo-homepage"
 >}}
 
+{{< typeit
+>}}
+La tana dell'informatica in italia.
+{{< /typeit >}}
 
 ---
