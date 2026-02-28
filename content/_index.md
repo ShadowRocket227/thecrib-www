@@ -8,6 +8,7 @@ description: "Home page di thecrib.it"
 >}}
 
 {{< typeit
+    speed=50
 >}}
 La tana dell'informatica in italia.
 {{< /typeit >}}
